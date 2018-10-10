@@ -1,0 +1,6 @@
+sw_client/Library/
+sw_client/Temp/
+sw_client/UnityPackageManager/
+sw_client/ProjectSettings/GraphicsSettings.asset
+sw_client/ProjectSettings/QualitySettings.asset
+sw_client/ProjectSettings/ProjectSettings.asset
